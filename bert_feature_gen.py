@@ -14,6 +14,9 @@ Created on Wed May 29 11:51:42 2019
 @author: enzoampil
 """
 
+#pip install bert-serving-server  # server
+#pip install bert-serving-client  # client, independent of `bert-serving-server`
+
 # Save the source title representations
 import pandas as pd
 import numpy as np
